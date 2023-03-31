@@ -1,4 +1,4 @@
-### 👋 WELCOME 👋
+### <p align="center"> 👋 WELCOME 👋 </p>
 
 ## My resume
 - [My resume (Update at 3/2023)](https://drive.google.com/file/d/16SKcti1P74a-T-JfyCJoF9HG064kkjQE/view?usp=sharing)
