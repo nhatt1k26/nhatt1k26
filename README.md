@@ -16,13 +16,23 @@ Outstanding Project
 | 2/2023 | [Multivariate Time Series Prediction using Deep Learning](https://github.com/TimeSeriesCK) | Python, TimeSeries, Deep Learning | [@Nguyễn Anh Minh](https://github.com/minhkks)|
 | 3/2022 | [OOP Project - Tank Shooter](https://drive.google.com/file/d/10SV0SvASYbApzQmR_bDYDIfZ3ZSXGo5X/view) | Unity, C#, Design Pattern | [@Nguyễn Anh Minh](https://github.com/minhkks) , [@Lê Đức Tài](https://github.com/DucTai1001) | 
 
-## Other codes
+## Front-end
+
 ### [HTML - CSS Learning](https://github.com/nhatt1k26/Fundamental_Html_Css.git)
 
-### [Cyber Security](https://github.com/nhatt1k26/Cyber_Security.git)
+### [ReactJS](https://github.com/nhatt1k26/ReactJS.git)
+
+## [Cyber Security](https://github.com/nhatt1k26/Cyber_Security.git)
+
+## Technology
+[Redis](https://github.com/nhatt1k26/Redis_Demo.git)
+[Kurbenete]()
+[Elastic Search]()
+
+### AWS
 
 ### Algorithm
 
-### Cryptography
+## Cryptography
 [Graduation Thesis](#)
 [zkSNARK](https://nosy-furniture-534.notion.site/ZK-Snark-907622884c2d4f8fb17fe4a7fd6140e4)
