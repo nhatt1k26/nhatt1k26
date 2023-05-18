@@ -16,6 +16,9 @@ Outstanding Project
 | 2/2023 | [Multivariate Time Series Prediction using Deep Learning](https://github.com/TimeSeriesCK) | Python, TimeSeries, Deep Learning | [@Nguyễn Anh Minh](https://github.com/minhkks)|
 | 3/2022 | [OOP Project - Tank Shooter](https://drive.google.com/file/d/10SV0SvASYbApzQmR_bDYDIfZ3ZSXGo5X/view) | Unity, C#, Design Pattern | [@Nguyễn Anh Minh](https://github.com/minhkks) , [@Lê Đức Tài](https://github.com/DucTai1001) | 
 
+## Language Programming
+### [Java] (https://github.com/nhatt1k26/LearnJava.git)
+
 ## Front-end
 
 ### [HTML - CSS Learning](https://github.com/nhatt1k26/Fundamental_Html_Css.git)
