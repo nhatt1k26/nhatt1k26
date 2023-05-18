@@ -17,7 +17,7 @@ Outstanding Project
 | 3/2022 | [OOP Project - Tank Shooter](https://drive.google.com/file/d/10SV0SvASYbApzQmR_bDYDIfZ3ZSXGo5X/view) | Unity, C#, Design Pattern | [@Nguyễn Anh Minh](https://github.com/minhkks) , [@Lê Đức Tài](https://github.com/DucTai1001) | 
 
 ## Language Programming
-### [Java] (https://github.com/nhatt1k26/LearnJava.git)
+### [Java](https://github.com/nhatt1k26/LearnJava.git)
 
 ## Front-end
 
